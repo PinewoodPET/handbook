@@ -2,6 +2,8 @@ name: Check Handbook Length
 
 on:
   push:
+    branches:
+      - main
     paths:
       - Handbook.md
   pull_request:
