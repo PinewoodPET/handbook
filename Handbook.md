@@ -350,13 +350,13 @@ During a Meltdown or Freezedown, the responsibility of PET respondents is to eff
 
 **Export Management** is located on the **7th Floor**, it's easily accessible by jumping down from the Heliport and following the red line. Inside are panels pertaining to exports and purchases
 
-**Oil Valves** are located on the **3rd Floor**, they're accessible from both the **3rd Floor and 4th Floor** through doors that face the Drill. It can be found by following a **green line** from the Control Room and the center stairwell
+**Oil Valves** are located on the **3rd Floor**, they're accessible from both the **3rd Floor and 4th Floor** through doors that face the Drill. They can be found by following a **green line** from the Control Room and the center stairwell
 
 **Gas Valves** are located on the **7th Floor**, they're accessible by jumping down from the Heliport and following the **yellow line**
 
-**Generators** are located on the **1st Floor** , they're accessible through doors on the 2nd Floor and 1st Floor that face the Drill
+**Generators** are located on the **1st Floor**, they're accessible through doors on the 2nd Floor and 1st Floor that face the Drill
 
-Both pressure values separately cause Blowout at 4000 PSI. There are 5 **Pressure Ranges**, Low, Normal, Optimal, High, and Critical
+There are 5 **Pressure Ranges**: Low, Normal, Optimal, High, and Critical. Both pressure valves seperately cause a blowout at 4000 PSI
 
 **Low**: 0-10 PSI
 
@@ -372,7 +372,7 @@ Both pressure values separately cause Blowout at 4000 PSI. There are 5 **Pressur
 
 - Maintaining and refueling generators
 
-- Repairing oil and export pipe leaks, as well as broken drill pipes
+- Repairing oil, export pipe leaks, as well as broken drill pipes
 
 - Healing injured players
 
@@ -383,8 +383,8 @@ Both pressure values separately cause Blowout at 4000 PSI. There are 5 **Pressur
 - Dealing with zombies
 
 - Extinguishing and disposing of explosive barrels
-
-**PET can use the valves to prevent blowout when pressure is critical! (3500+)**
+  
+**PET can use the valves to prevent blowout when pressure is critical (3500+). And may use the exports/control buttons to help make money anytime.**
 
 [/details]
 
