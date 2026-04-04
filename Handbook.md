@@ -612,7 +612,7 @@ _As a Marshall, you will need access to the PET communications server as well as
 
 - **Upgraded PET Shovel**: Increased radius and smaller cooldown.
 
-- **Upgraded PET Med-Kit**: This med-kit heals **72 HP** and has a cooldown of **5.5 seconds**.
+- **Upgraded PET Med-Kit**: This med-kit heals **84 HP** and has a cooldown of **5.5 seconds**.
 
 - **Upgraded PET Fire Hose**: Extinguishes fires faster than the Deputy fire hose.
 
