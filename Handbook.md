@@ -344,29 +344,29 @@ During a Meltdown or Freezedown, the responsibility of PET respondents is to eff
 
 [details="🛢️ PBOP"]
 
-**PET HQ:** The PET HQ is located on the **12th Floor**, the PET Room is found after walking onto the platform from the Heliport, taking the first left, and will be at the end of the hall under the “PET Department” sign. Inside are the loadout giver, uniform givers, repair restock, STS area, leak counters, and the PET Scuba Gear.
+**PET HQ** is located on the **12th Floor**, it's found after walking onto the platform from the Heliport, taking the first left, and will be at the end of the hall under the “PET Department” sign. Inside are the loadout and uniform givers, repair restock, STS area, leak counters, and PET Scuba Gear
 
-**Control Room:** The Control Room is located on the **5th Floor**, the Control Room is recognizable through the large window looking out to the Drill. It has a main entrance on the 5th Floor on the Heliport side of the platform. It also has a Vent entrance on the 9th Floor directly above the Gas Valves, which is above the Pinewood Facility Map. Inside are the Drill Control, Refinery Control, and Blowout Counter. PET is authorized to use controls here and EM (Export Management) to assist PBST in making money.
+**Control Room** is located on the **5th Floor**. It's main entrance is on the 5th Floor on the Heliport side of the platform. It also has a vent entrance on the 9th Floor directly above the Gas Valves. Inside are the Drill & Refinery controls, and a blowout counter
 
-**Export Management:** The Export Management is located on the **7th Floor**, Export Management is accessible easily by jumping down from the Heliport and following the red line. It also has a Vent entrance located on the **9th Floor** directly above the Gas Valves, leading to the Meeting Room directly next to Export Management. Inside are the Export Panels, Upgrade Panel, and the Purchasable Panel.
+**Export Management** is located on the **7th Floor**, it's easily accessible by jumping down from the Heliport and following the red line. Inside are panels pertaining to exports and purchases
 
-**Oil Valves:** Oil Valves are located on the **3rd Floor** , Oil Valves are accessible from both the **3rd Floor and 4th Floor** through doors that face the Drill. It can be found by following a **green line** from the Control Room and the Center Stairwell.
+**Oil Valves** are located on the **3rd Floor**, they're accessible from both the **3rd Floor and 4th Floor** through doors that face the Drill. It can be found by following a **green line** from the Control Room and the center stairwell
 
-**Gas Valves:** Gas Valves are located on the **7th Floor**, Gas Valves are accessible easily by jumping down from the Heliport and following the **yellow line**. It is also accessible from the Center Stairwell, taking a right after exiting on the 7th Floor.
+**Gas Valves** are located on the **7th Floor**, they're accessible by jumping down from the Heliport and following the **yellow line**
 
-**Generators:** Generators are located on the **1st Floor** , Generators are accessible through doors on the 2nd Floor and 1st Floor that face the Drill
+**Generators** are located on the **1st Floor** , they're accessible through doors on the 2nd Floor and 1st Floor that face the Drill
 
-**Pressure:** Both pressure values separately cause Blowout at 4000 PSI. There are 5 Pressure Ranges, Low, Normal, Optimal, High, and Critical.
+Both pressure values separately cause Blowout at 4000 PSI. There are 5 **Pressure Ranges**, Low, Normal, Optimal, High, and Critical
 
-**Low: 0-10 PSI**
+**Low**: 0-10 PSI
 
-**Normal: 10-1000 PSI & 1500-2500 PSI**
+**Normal**: 10-1000 PSI & 1500-2500 PSI
 
-**Optimal: 1000-1500 PSI**
+**Optimal**: 1000-1500 PSI
 
-**High: 2500-3500 PSI**
+**High**: 2500-3500 PSI
 
-**Critical: 3500+ PSI**
+**Critical**: 3500+ PSI
 
 [details="📋 Objectives"]
 
@@ -384,7 +384,7 @@ During a Meltdown or Freezedown, the responsibility of PET respondents is to eff
 
 - Extinguishing and disposing of explosive barrels
 
-**You can touch the control room controls when pressure is critical! (3500+)**
+**PET can use the valves to prevent blowout when pressure is critical! (3500+)**
 
 [/details]
 
