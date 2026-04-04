@@ -33,6 +33,6 @@ if (content.length > 50000) {
     process.exit(1);
   }
 
-  const post = await res.json();
+  const { post } = await res.json();
   console.log(`Updated: https://devforum.roblox.com/t/${post.topic_slug}/${post.topic_id}`);
 })();
