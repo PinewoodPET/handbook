@@ -1,0 +1,26 @@
+name: Update DevForum Post
+
+on:
+  workflow_run:
+    workflows: ["Check Handbook Length"]
+    types:
+      - completed
+    branches:
+      - main
+
+jobs:
+  check-length:
+    # depend on other workflows passing first
+    if: github.event.workflow_run.conclusion == 'success' 
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 24
+
+      - name: Update DevForum Post
+        env:
+          DEVFORUM_API_KEY: ${{ secrets.DEVFORUM_API_KEY }}
+          DEVFORUM_POST_ID: ${{ vars.DEVFORUM_POST_ID }}
+        run: node .github/scripts/update-devforum.js
