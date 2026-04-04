@@ -532,7 +532,7 @@ _As a Lieutenant, you will need to be in the PET communications server (Former H
 
 - **Upgraded PET Shovel**: Increased radius and smaller cooldown.
 
-- **Upgraded PET Med-Kit**: This med-kit heals **84 HP** and has a cooldown of **7 seconds**.
+- **Upgraded PET Med-Kit**: This med-kit heals **72 HP** and has a cooldown of **7 seconds**.
 
 - **Upgraded PET Fire Hose**: Extinguishes fires faster than the Skilled Respondent fire hose.
 
