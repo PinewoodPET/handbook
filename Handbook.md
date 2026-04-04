@@ -250,7 +250,7 @@ You should never spread or start fires whilst being on-duty for PET. As a PET re
 
 As a PET Respondent, you must ensure that the satellite connection located in the computer science labs is kept on at all times in case of a missile event.
 
-During the Missiles event, the Labs room is automatically restricted, this means that you are free to kill any non-PET and non-PBST that enter the room. This restriction is automatically voided the moment the disaster ends.
+During the Missiles event, the Labs room is automatically restricted, this means that you are free to kill aany non PET/PBST that enter the room. This restriction is automatically voided once the disaster ends.
 
 You can use the PET Tablet to quickly view whether the satellite connection is enabled or disabled.
 
@@ -274,7 +274,7 @@ Once the player has been returned to a normal status, they shall be healed and s
 
 Radiation Puddles have the ability to spawn randomly throughout the map, and do damage when touched! These can be cleaned up by either the mop or the Spill Kit tool.
 
-The mop can be found in the supply closet located at the Lunch Silos/Cafeteria.
+The mop can be found in the supply closet located at the Cafeteria.
 
 - Trained Respondents and above have access to the Spill Kit tool, allowing them to clear these puddles at a faster rate than the mop.
 
@@ -616,6 +616,8 @@ _As a Marshall, you will need access to the PET communications server as well as
 
 - **Upgraded PET Fire Hose**: Extinguishes fires faster than the Deputy fire hose.
 
+- **Health Field**: This bubble-like tool provides healing to any player, regardless of ranktag, within the inside of the shield. The healing shield will automatically destroy itself after some time, or when its durability reaches zero.
+
 <div><h3>Permissions:</div>
 
 - All of the Deputy's permissions.
@@ -657,8 +659,6 @@ The second HR rank. Specialists are the leadership rank in PET and manage the gr
 - **Upgraded PET Med-Kit**: This med-kit heals **96 HP** and has a cooldown of **5 seconds**.
 
 - **Upgraded PET Fire Hose**: Extinguishes fires faster than the Marshall fire hose.
-
-- **Health Field**: This bubble-like tool provides healing to any player, regardless of ranktag, within the inside of the shield. The healing shield will automatically destroy itself after some time, or when its durability reaches zero.
 
 <div><h3>Permissions:</div>
 
@@ -768,11 +768,11 @@ Regular raids can award up to 5 points, with 6 being given as a bonus
 
 ![image|690x225](https://raw.githubusercontent.com/PinewoodPET/handbook/main/assets/oceanarea.png)
 
-[details="♨️ Meltdown"]
+[details="♨️ Meltdown / 🧊 Freezedown"]
 
-During meltdown raids, depending on the temperature, PET's objectives may vary. Once the cores temperature reaches 2000 it is then considered to be in critical state and PET respondents are additionally allowed to cool down the cores temperature to 1000 degrees. TMS is on automatic KOS during raids once the cores reaches this critical state unless specified otherwise by Lieutenant+. During meltdown raids, PET can fix the coolant pipe at any temperature.
+During meltdown/freezedown raids, depending on the temperature, PET's objectives may vary. Once the cores temperature reaches 2000/-2000 it is then considered to be in critical state and PET respondents are additionally allowed to adjust the cores temperature to 1000/-1000 degrees. TMS is on automatic KOS during raids once the cores reaches this critical state unless specified otherwise by Lieutenant+. During meltdown raids, PET can fix the coolant pipe at any temperature. During freezedowns, PET may break the pipe at any point.
 
-**Objectives Before 2000:**
+**Objectives Before 2000/-2000:**
 
 - Handling chaos
 
@@ -780,55 +780,23 @@ During meltdown raids, depending on the temperature, PET's objectives may vary. 
 
 - Fueling Generators
 
-- Fixing coolant pipe
+- Fixing/Breaking the coolant pipe
 
 - Dealing with disasters
 
 - Destroying/hacking TMS sentries, healing PBST sentries
 
-**Objectives Past 2000:**
+**Objectives Past 2000/-2000:**
 
-- Cooling down the core
-
+- Cooling/Heating the core temperature.
+  
 - Everything else becomes a secondary objective unless it's interfering with the main objective
 
-- As a last resort, E-Coolant may be used once the core temperature reaches 4000 (more info may be found under the E-Coolant section)
+- As a last resort during meltdowns, E-Coolant may be used once the core temperature reaches 4000 (more info may be found under the E-Coolant section)
 
-**Post-Meltdown objectives:**
+**Post-Melt/Freeze objectives:**
 
 - If there are visitors present - an evacuation run
-
-- Fuel the gens and turn them on once the core stops supplying power
-
-[/details]
-
-[details="🧊 Freezedown"]
-
-During freezedown raids, depending on the core's temperature, PETs objectives may vary. Once the core temperature reaches -2000 it is then considered to be in a critical state and PET respondents are additionally allowed to heat up the core to -1000 degrees. TMS is on automatic KOS once core reaches this critical state unless specified otherwise by Lieutenant+. During freezedown raids, PET can break the pipe at any temperature.
-
-**Objectives Before -2000:**
-
-- Handling chaos
-
-- Healing PBST
-
-- Fueling Generators
-
-- Breaking coolant pipe
-
-- Dealing with disasters
-
-- Destroying/hacking TMS sentries, healing PBST sentries
-
-**Objectives Below -2000:**
-
-- Heating up the core
-
-- Everything else becomes a secondary objective unless it's interfering with the main objective
-
-**Post-Freezedown objectives:**
-
-- If there are visitors present - evacuation run
 
 - Fuel the gens and turn them on once the core stops supplying power
 
