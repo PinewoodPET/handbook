@@ -150,7 +150,7 @@ PET respondents may NEVER become mutants, as they will be attacked by their fell
 
 [/details]
 
-## [/details]
+[/details]
 
 [details="☢️ PBCC"]
 
@@ -340,7 +340,7 @@ During a Meltdown or Freezedown, the responsibility of PET respondents is to eff
 
 [/details]
 
-## [/details]
+[/details]
 
 [details="🛢️ PBOP"]
 
@@ -872,7 +872,7 @@ During Incursions, PETs main objective is to assist PBST in securing specific ar
 
 MEGA Raids are rare events organised by TMS, hosted a couple of times per year, where multiple servers are raided at the same time. The usual goal of TMS is to achieve a meltdown in every server. PET's goal during this event is to assist PBST and help defend the core, attempting to bring its temperature down once it reaches a critical state.
 
-## [/details]
+[/details]
 
 [/details]
 **⭐ Special Events:**
