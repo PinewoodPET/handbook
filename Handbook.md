@@ -384,7 +384,7 @@ There are 5 **Pressure Ranges**: Low, Normal, Optimal, High, and Critical. Both 
 
 - Extinguishing and disposing of explosive barrels
   
-**PET can use the valves to prevent blowout when pressure is critical (3500+). And may use the exports/control buttons to help make money anytime.**
+**PET can use the valves to prevent blowout when pressure is critical (3500+). Exports/control buttons may be used anytime to help make money.**
 
 [/details]
 
