@@ -1,17 +1,14 @@
 name: Update DevForum Post
 
 on:
-  workflow_run:
-    workflows: ["Check Handbook Length"]
-    types:
-      - completed
+  push:
     branches:
       - main
+    paths:
+      - Handbook.md
 
 jobs:
   check-length:
-    # depend on other workflows passing first
-    if: github.event.workflow_run.conclusion == 'success' 
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
