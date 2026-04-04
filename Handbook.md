@@ -8,7 +8,7 @@
 
 The following document is the official handbook of the Pinewood Emergency Team, written by the Specialists. Please read it carefully. Any changes to this handbook will be made clear.
 
-Welcome to Pinewood Emergency Team, an elite group of the best respondents working together to tend to emergencies across all Pinewood facilities! Using high-tech equipment, we work hard to save countless visitors every day! We primarily patrol the Pinewood Computer Core, our main home base.
+Welcome to PET, an elite group of the best respondents working together to tend to emergencies across all Pinewood facilities! Using high-tech equipment, we work hard to save countless visitors every day! We primarily patrol the Pinewood Computer Core, our main home base.
 
 🔥 **Above the flames!**
 
@@ -170,7 +170,7 @@ You are exempt from giving someone a warning for touching core controls if they 
 
 - **You should NEVER warn someone for using the core controls if PET is not authorized to use them.**
 
-As a PET respondent, you must keep an eye out for the coolant pipe! PET respondents are allowed to fix the coolant pipe when the core temperature is between **-2000 and 4000 degrees**, however, PET personnel must break the coolant pipe when the core temperature is between **-4000 and -2000 degrees** to prevent facility destruction!
+PET respondents are allowed to fix the coolant pipe when the core temperature is between **-2000 and 4000 degrees**, however, PET personnel must break the coolant pipe when the core temperature is between **-4000 and -2000 degrees** to prevent a freezedown!
 
 ![image|690x352](https://raw.githubusercontent.com/PinewoodPET/handbook/main/assets/core.png)
 
@@ -178,7 +178,7 @@ As a PET respondent, you must keep an eye out for the coolant pipe! PET responde
 
 [details="⚠️ Disasters"]
 
-Every once in a while, a disaster will happen at the Pinewood Computer Core. These disasters can impact the gameplay's state. As an on-duty PET respondent, it is your job and responsibility to ensure that no further damage occurs to the facility and heal anyone injured as a result of said disasters. Below goes into more details on what to do.
+Every once in a while, a disaster will happen at the PBCC. These disasters can impact the facility state. As an on-duty PET respondent, it is your job and responsibility to ensure that no further damage occurs to the facility and heal anyone injured as a result of said disasters. Below goes into more details on what to do.
 
 If you hear a rumbling sound, you can use the PET Tablet to view if a disaster is about to occur.
 
@@ -302,11 +302,11 @@ You can use the PET Tablet to quickly view whether the generators are enabled or
 
 [details="❄️ E-Coolant"]
 
-Emergency Coolant, abbreviated as E-Coolant, is a PBCC gameplay mechanic located at Sector G that allows users to have a last-minute chance at saving the core once a Meltdown begins.
+Emergency Coolant (aka E-Coolant), located at Sector G allows players to have a last-minute chance at saving the core once a Meltdown begins.
 
-To access both doors at Sector G, you need to input the code **5334118**.
+The code to access both doors at Sector G is **5334118**.
 
-E-Coolant plays an important role for PET, as it can prevent the chance of total facility destruction! Therefore, the E-Coolant must be kept under PET's (and PBST if they are present) control! If successful, the E-Coolant will prevent the core from entering into a meltdown phase, **During the whole E-Coolant procedure, PET is allowed to attack players that interfere with their mission of successfully activating the e-coolant rods!**
+E-Coolant plays an important role for PET, as it can prevent the chance of total facility destruction! Therefore, the E-Coolant must be kept under PET (and PBST) control! If successful, the E-Coolant will prevent the core from entering into a meltdown phase, **During the whole E-Coolant procedure, PET is allowed to attack players that interfere with their mission of successfully activating the e-coolant rods!**
 
 This includes players who are:
 
@@ -885,7 +885,7 @@ The biggest and most important PET event! These events are scheduled by the Spec
 
 <div align="center"><h1>🔥 Respondents of The Month 🔥</div>
 
-Respondent of The Month is a title awarded to people each month that have shown initiative, commitment, and have made an overall positive impact in the group that month. Every month, one to three respondents will be chosen for this award to recognize and congratulate them as they have clearly showcased that they are great role models for others and have an attitude willing to improve. Others should look up to those who have achieved this award, as they demonstrate that they are among the best!
+Respondent of The Month is a title awarded to people each month that have shown initiative, commitment, and have made an overall positive impact in the group that month. Every month, 1-3 respondents will be chosen for this award to recognize and congratulate them as they have clearly showcased that they are great role models for others and have an attitude willing to improve.
 
 Those who get this award also get a cool "Respondent of The Month" PET ranktag in-game!
 
