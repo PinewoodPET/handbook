@@ -12,7 +12,7 @@ Welcome to Pinewood Emergency Team, an elite group of the best respondents worki
 
 🔥 **Above the flames!**
 
-`Last update:` _November 5th, 2025_
+`Last update:` _April 4th, 2026_
 
 https://www.roblox.com/groups/2593707/Pinewood-Emergency-Team#!/about
 
@@ -115,7 +115,7 @@ From time to time, you may encounter a rogue on-duty PET personnel whilst patrol
 
 You're allowed to fight back in self defense if they attack you.
 
-If you witness a rogue PET member, be sure to first tell them of their wrongdoings, they may not know that they're breaking the handbook rules. Should they continue after that warning, you should request a Kill-On-Sight order from a Marshall+, as well as fill out a punishment request using the form linked in the information channel of the communications server. You'll need sufficient evidence of the person committing violations, as well as proof that you've warned them. If the person holds a Trained Respondent rank or above they do not need to be warned.
+If you witness a rogue PET member, be sure to first tell them of their wrongdoings, they may not know that they're breaking the handbook rules. Should they continue after that warning, you should request a KOS order from a Marshall+, as well as fill out a punishment request using the form linked in the information channel of the communications server. You'll need sufficient evidence of the person committing violations, as well as proof that you've warned them. If the person holds a Trained Respondent rank or above they do not need to be warned.
 
 ![image|690x388](https://raw.githubusercontent.com/PinewoodPET/handbook/main/assets/reporting.jpeg)
 
@@ -133,11 +133,11 @@ It is also worth recording any evidence, if possible, of the exploiter hacking s
 
 [details="📢 Warnings and KOS orders"]
 
-A **warning** can be given either via chat (if applicable), or with a single shot from a low-damage weapon. On subsequent offenses, PET respondents are permitted to attack and request KOS.
+A **warning** can be given either via chat, or with a single shot from a low-damage weapon. On subsequent offenses, PET respondents are permitted to attack and request KOS.
 
 See the individual sections on when you’re required to warn.
 
-A **KOS order** (or a Kill-On-Sight order) is an order that allows members to directly kill people that are placed "on KOS". Lieutenants may issue KOS orders at any point if they are in-game and on duty as PET. Marshall+ may issue KOS orders at any given time.
+A **KOS order** (Kill-On-Sight order) is an order that allows members to directly kill people that are placed "on KOS". Lieutenants may issue KOS orders at any point if they are in-game and on duty as PET. Marshall+ may issue KOS orders at any given time.
 
 Apart from divisional KOS orders, there are two other types of KOS orders:
 
@@ -322,13 +322,13 @@ You should, however, always aim for all three rods to be green, as that increase
 
 Success Rates for the number of green rods when the countdown reaches _0_
 
-1 rod - 25%, if successful, it will set the core temperature **back to 3600 degrees!**
+1 rod - 25% | If successful, sets the core temperature **3600 degrees!**
 
-2 rods - 45%, if successful, it will set the core temperature **back to 3400 degrees!**
+2 rods - 45% | If successful, sets the core temperature **3400 degrees!**
 
-3 rods - 90%, if successful, it will set the core temperature **back to 3000 degrees!**
+3 rods - 90% | If successful, sets the core temperature **3000 degrees!**
 
-**_Be warned! Each time E-Coolant works, the success rates above will decrease by 20%, so make sure you do not rely on it, and only use it AS THE LAST RESORT._**
+**_Be warned! Each time E-Coolant works, the success rates above will decrease by 20%. Only use it AS THE LAST RESORT._**
 
 ![image|690x352](https://raw.githubusercontent.com/PinewoodPET/handbook/main/assets/ecoolant.png)
 
@@ -983,7 +983,7 @@ Feel free to read the PBST handbook to gain more information on what they do: [P
 
 [details="🧨 TMS"]
 
-[The Mayhem Syndicate ](https://www.roblox.com/groups/4890641/The-Mayhem-Syndicate#!/about) is the raid group of PB and as such, will be a common enemy for any PET. Certain rules need to be followed when dealing with Syndicates, as well as when responding to their coordinated raids on PBCC.
+[The Mayhem Syndicate](https://www.roblox.com/groups/4890641/The-Mayhem-Syndicate#!/about) is the raid group of PB and as such, will be a common enemy for any PET. Certain rules need to be followed when dealing with Syndicates, as well as when responding to their coordinated raids on PBCC.
 
 You may occasionally encounter the Syndicates at PET patrols. Unless they attack PET or set the cargo bays on fire, they will usually not be on PET KOS.
 
