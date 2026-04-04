@@ -250,7 +250,7 @@ You should never spread or start fires whilst being on-duty for PET. As a PET re
 
 As a PET Respondent, you must ensure that the satellite connection located in the computer science labs is kept on at all times in case of a missile event.
 
-During the Missiles event, the Labs room is automatically restricted, this means that you are free to kill aany non PET/PBST that enter the room. This restriction is automatically voided once the disaster ends.
+During the Missiles event, the Labs room is automatically restricted, this means that you are free to kill any non PET/PBST that enter the room. This restriction is automatically voided once the disaster ends.
 
 You can use the PET Tablet to quickly view whether the satellite connection is enabled or disabled.
 
