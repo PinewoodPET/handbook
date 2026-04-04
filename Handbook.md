@@ -86,7 +86,7 @@ The following part of the handbook outlines important information for those who 
 
 [details="💭 Communication"]
 
-On-duty PET respondents gain access to two private chats. One for PET and the other for shared communications with PBST, accessible with `/c pet` and `/c pro` respectively. Please note that chat communication is heavily limited.. One for all PET respondents and the other used for shared communications with PBST to use in game! Write `/c pet` or `/c pro` in the chat and then send it to gain access! Please note that chat communication is limited. Players may not be able to see your chats due to various factors.
+On-duty PET respondents gain access to two private chats. One for PET and the other for shared communications with PBST, accessible with `/c pet` and `/c pro` respectively. Please note that chat communication is heavily limited.
 
 During events, communication is usually done through the communications server.
 
@@ -164,7 +164,7 @@ When the core is at a temperature of above 3000 degrees, or below -3000 degrees 
 
 PET members are permitted to cool/heat the core from the mentioned critical state to 2000/-2000 degrees (1000/-1000 degrees during TMS raids).
 
-Should a visitor interfere with your mission to set the core temperature back from a critical state (examples can be turning lasers on when the core is close to a meltdown, turning coolant on when the core is close to a freezedown, etc.), you must **give them a warning**, and ask them to stop, if they continue you are free to kill them.
+Should a visitor interfere with your mission to set the core temperature back from a critical state (examples can be turning lasers on when the core is close to a meltdown, turning coolant on when the core is close to a freezedown, etc.), you must **give them a warning**, if they continue you are free to kill them.
 
 You are exempt from giving someone a warning for touching core controls if they are on KOS, or if the core is over/under 3000/-3000 degrees! (2000/-2000 for TMS raids)
 
@@ -202,7 +202,7 @@ If you hear a rumbling sound, you can use the PET Tablet to view if a disaster i
 
 - **Coolant Backflow** - Evacuate users out of the affected area, and heal anyone injured. Drain the coolant manually by opening the valves on the supply inspection platform! **In case the temperature is in a critical range (over 3K, or 2K during raids), PET may not drain the coolant backflow.**
 
-- **King Abomination** - Players must successfully fight off the abomination boss and his minions on the mainframe! You may utilize both normal weapons and your disinfectors to accomplish this. Heal any players injured throughout the event.
+- **King Abomination** - Players must successfully fight off the abomination boss on the mainframe! You may utilize both normal weapons and your disinfectors to accomplish this. Heal any players injured throughout the event.
 
 - **Missiles** - Make sure the satellite connection is kept on, clean up the debris, and heal anyone injured.
 
@@ -306,7 +306,7 @@ Emergency Coolant, abbreviated as E-Coolant, is a PBCC gameplay mechanic located
 
 To access both doors at Sector G, you need to input the code **5334118**.
 
-E-coolant plays an important role for PET, as it can prevent the chance of total facility destruction! Therefore, the E-Coolant must be kept under PET's (and PBST if they are present) control! If successful, the E-Coolant will prevent the core from entering into a meltdown phase, **During the whole E-Coolant procedure, PET is allowed to attack players that interfere with their mission of successfully activating the e-coolant rods!**
+E-Coolant plays an important role for PET, as it can prevent the chance of total facility destruction! Therefore, the E-Coolant must be kept under PET's (and PBST if they are present) control! If successful, the E-Coolant will prevent the core from entering into a meltdown phase, **During the whole E-Coolant procedure, PET is allowed to attack players that interfere with their mission of successfully activating the e-coolant rods!**
 
 This includes players who are:
 
@@ -612,7 +612,7 @@ _As a Marshall, you will need access to the PET communications server as well as
 
 - **Upgraded PET Shovel**: Increased radius and smaller cooldown.
 
-- **Upgraded PET Med-Kit**: This med-kit heals **72 HP** and has a cooldown of **5.5 seconds**.
+- **Upgraded PET Med-Kit**: This med-kit heals **84 HP** and has a cooldown of **5.5 seconds**.
 
 - **Upgraded PET Fire Hose**: Extinguishes fires faster than the Deputy fire hose.
 
