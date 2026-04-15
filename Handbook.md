@@ -558,11 +558,11 @@ _As a Lieutenant, you will need to be in the PET communications server (Former H
 
 [/details]
 
-[details="⭕ Deputy (MR)"]
+[details="⭕ Deputy (Subrank)"]
 
 # Deputy
 
-This is the second MR rank within PET. This rank acts as an assistant for patrol hosts should they wish to have them during their patrol.
+This is a subrank given to Lieutenants. They act as an assistant for patrol hosts should they wish to have them during their patrol.
 
 Deputies are allowed to lead a small group of PET within a specific area such as cargo bay in order to ensure smooth operation throughout the patrol.
 
