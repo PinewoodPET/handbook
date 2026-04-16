@@ -18,7 +18,7 @@ const year = today.getFullYear();
 const month = today.toLocaleString('en-US', { month: 'long' });
 const day = today.getDate();
 
-const formatteddate = `${month} ${day}, ${year}`;
+const formatteddate = `${day} ${month}, ${year}`;
 
 if (!content.includes(lastUpdateDatePlaceholder)) {
   console.error(`Missing placeholder: ${lastUpdateDatePlaceholder}`);
