@@ -17,9 +17,9 @@ const year = today.getFullYear();
 const month = today.toLocaleString('en-US', { month: 'long' });
 const day = today.getDate();
 
-const formatteddate = `${month} ${day}, ${year}`
+const formattedDate = `${month} ${day}, ${year}`;
 
-content = content.replaceAll('{{ .LastUpdateDate }}', formatteddate);
+content = content.replaceAll('{{ .LastUpdateDate }}', formattedDate);
 
 // just to double-check
 if (content.length > 50000) {
