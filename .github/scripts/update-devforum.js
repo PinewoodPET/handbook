@@ -16,16 +16,32 @@ const lastUpdateDatePlaceholder = '{{ .LastUpdateDate }}';
 const today = new Date();
 const year = today.getFullYear();
 const month = today.toLocaleString('en-US', { month: 'long' });
-const day = today.getDate();
 
-const formatteddate = `${day} ${month}, ${year}`;
+function getDaySuffix(day) {
+  if (day > 3 && day < 21) {
+    return 'th';
+  }
+  switch (day % 10) {
+    case 1: return 'st';
+    case 2: return 'nd';
+    case 3: return 'rd';
+    default: return 'th';
+  }
+}
+
+const day = today.getDate();
+const daySuffix = getDaySuffix(day);
+
+// #marshalls decided to go with MM/DD/YYYY
+const formattedDate = `${month} ${day}${daySuffix}, ${year}`; // "April 16th, 2026"
+console.log(formattedDate);
 
 if (!content.includes(lastUpdateDatePlaceholder)) {
   console.error(`Missing placeholder: ${lastUpdateDatePlaceholder}`);
   process.exit(1);
 }
 
-content = content.replaceAll(lastUpdateDatePlaceholder, formatteddate);
+content = content.replaceAll(lastUpdateDatePlaceholder, formattedDate);
 // just to double-check
 if (content.length > 50000) {
   console.error(`Content too long: ${content.length}/50000 chars`);
