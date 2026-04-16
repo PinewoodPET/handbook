@@ -9,8 +9,23 @@ if (!DEVFORUM_API_KEY || !DEVFORUM_POST_ID) {
   process.exit(1);
 }
 
-const content = readFileSync('Handbook.md', 'utf8');
+let content = readFileSync('Handbook.md', 'utf8');
 
+// replace {{ .LastUpdateDate }} with Month Day, Year
+const lastUpdateDatePlaceholder = '{{ .LastUpdateDate }}';
+const today = new Date();
+const year = today.getFullYear();
+const month = today.toLocaleString('en-US', { month: 'long' });
+const day = today.getDate();
+
+const formatteddate = `${day} ${month}, ${year}`;
+
+if (!content.includes(lastUpdateDatePlaceholder)) {
+  console.error(`Missing placeholder: ${lastUpdateDatePlaceholder}`);
+  process.exit(1);
+}
+
+content = content.replaceAll(lastUpdateDatePlaceholder, formatteddate);
 // just to double-check
 if (content.length > 50000) {
   console.error(`Content too long: ${content.length}/50000 chars`);
