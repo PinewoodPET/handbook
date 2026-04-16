@@ -12,7 +12,7 @@ Welcome to PET, an elite group of the best respondents working together to tend 
 
 🔥 **Above the flames!**
 
-`Last update:` _April 4th, 2026_
+`Last update:` _{{ .LastUpdateDate }}_
 
 https://www.roblox.com/groups/2593707/Pinewood-Emergency-Team#!/about
 
