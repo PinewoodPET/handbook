@@ -442,7 +442,7 @@ This is the first rank that can be achieved through an evaluation. This rank com
 
 - **Phase 2:** Using the speed coil provided, you must turn off all core lasers and set the reactor power to 1 in 35 seconds or less.
 
-- **Phase 3:** With the tools provided, extinguish the fires in Cargo Bay 1B in 75 seconds or less.
+- **Phase 3:** With the tools provided, extinguish the fires in Cargo Bay 1B in 60 seconds or less.
 
 - **Phase 4:** Answer 8 basic questions about the PET handbook and our duties around the PBCC. You only have to get 7 correct in order to pass, but you should aim for 100%.
 
