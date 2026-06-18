@@ -49,7 +49,9 @@ if (content.length > 50000) {
 }
 
 (async () => {
-  const res = await fetch(`https://devforum.roblox.com/posts/${DEVFORUM_POST_ID}.json`, {
+  const Posturl = `https://devforum.roblox.com/posts/${DEVFORUM_POST_ID}.json`
+  console.log(`Updating ${Posturl}`)
+  const res = await fetch(Posturl, {
     method: 'PUT',
     headers: {
       'User-Api-Key': DEVFORUM_API_KEY,
