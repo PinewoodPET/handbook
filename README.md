@@ -12,3 +12,5 @@
 1. Run the `usertoken.py` script to generate a new User API Key for DevForum. Make sure you're logged into the HandbookPET account not your own account.
 
 2. After you get the API Key, go to repo settings, open "Secrets and variables" -> "Actions" and replace or add the new key as `DEVFORUM_API_KEY`.
+
+3. Go to "Variables" and replace or add the `DEVFORUM_POST_ID` variable with the devforum post id
