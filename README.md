@@ -13,4 +13,4 @@
 
 2. After you get the API Key, go to repo settings, open "Secrets and variables" -> "Actions" and replace or add the new key as `DEVFORUM_API_KEY`.
 
-3. Go to "Variables" and replace or add the `DEVFORUM_POST_ID` variable with the devforum post id
+3. Get the devforum post ID by appending .json to the end of the post url, copy the ID field in the json, go to "Variables" and replace or add the `DEVFORUM_POST_ID` variable with the copied id.
