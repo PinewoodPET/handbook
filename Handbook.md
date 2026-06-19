@@ -931,6 +931,6 @@ This handbook is subject to change and will be updated to accurately meet all ch
 
 <div align="center"><h1>The Specialists</h1></div>
 
-![FinalizedVersion|690x388](https://raw.githubusercontent.com/PinewoodPET/handbook/main/assets/poster.png)
+![FinalizedVersion|690x388](https://raw.githubusercontent.com/PinewoodPET/handbook/main/assets/poster2.png)
 
 ---
