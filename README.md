@@ -2,6 +2,10 @@
 
 # PET Handbook
 
+## Pull requests
+
+- PR's may be created to correct mistakes, or if necessary simplify/reword handbook language. Suggestions should be directed to the discord forum
+
 ## Making changes to the handbook
 
 - Follow the Discourse/Devforum formatting
