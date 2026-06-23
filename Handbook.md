@@ -204,7 +204,7 @@ If you hear a rumbling sound, you can use the PET Tablet to view if a disaster i
 
 - **King Abomination** - Players must successfully fight off the abomination boss on the mainframe! You may utilize both normal weapons and your disinfectors to accomplish this. Heal any players injured throughout the event.
 
-- **Missiles** - Make sure the satellite connection is kept on, clean up the debris, and heal anyone injured.
+- **Missiles** - Make sure the satellite connection is kept on, clean up the debris, and heal anyone injured. In certain cases, debris should be kept if it's beneficial to the objective of PET / PBST. One example of this is RP controls, where the debris makes it harder for anti-cores to access. **PET may not attack visitors who choose to clear the debris in this case.**
 
 [/details]
 
