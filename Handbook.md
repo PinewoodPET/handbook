@@ -52,7 +52,9 @@ PET, PBST, and TMS Leadership have agreed to prevent unfair advantages to the be
 
 5. To avoid team-killing and general confusion, on-duty PET may not color their hazmat red during raids or patrols.
 
-In these rules, “all sides” refers to all main pro-core and anti-core subgroups, PET, PBST, and TMS.
+6. Attendees on one side of an event are not allowed to spy on the event communications of the other side or join the other side's ping group.
+
+In these rules, "all sides" refers to the subgroups in both the pro-core side (PBST/PET) and the anti-core side (TMS).
 
 **By committing any of the mentioned rules while also being on duty for PET, you can expect an appropriate punishment in the group; ranging from a point deduction up to a demotion. In some cases, it may result in a Raid Blacklist, where one is on permanent Global KOS during public server PET/PBST/TMS events, and is banned from attending private server PET/PBST/TMS events.**
 
