@@ -51,8 +51,10 @@ PET, PBST, and TMS Leadership have agreed to prevent unfair advantages to the be
 4. Attendees cannot fight and kill each other in the main spawn area, the Security room, the Syndicate hideout, the Emergency HQ, or the corridor connecting the PBCC main spawn and the PBCC Emergency HQ. The only exception to this rule is if you’re fighting someone and during the middle of it they decide to run to any of the mentioned areas to escape said fight, in which case you are free to kill them there.
 
 5. To avoid team-killing and general confusion, on-duty PET may not color their hazmat red during raids or patrols.
+   
+6. You may not abuse the donor commands gamepass in-order to gain combat advantages during events.
 
-6. Attendees on one side of an event are not allowed to spy on the event communications of the other side or join the other side's ping group.
+7. Attendees on one side of an event are not allowed to spy on the event communications of the other side or join the other side's ping group.
 
 In these rules, "all sides" refers to the subgroups in both the pro-core side (PBST/PET) and the anti-core side (TMS).
 
