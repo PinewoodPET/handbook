@@ -416,9 +416,7 @@ This is the first rank that can be achieved through an evaluation. This rank com
 
 - Access to the in-game `!call pet` command.
 
-- Access to write in the tips-for-duties channel in the communications server.
-
-- Access to ranked announcements and a ranked chat for Trained Respondent+ in the communications server.
+- Access to ranked announcements and a ranked chat for Trained Respondent+ in the PET communications server.
 
 [/details]
 
@@ -458,7 +456,9 @@ The second rank that can be achieved through an evaluation.
 
 - All of the Trained Respondent's permissions.
 
-- Access to the Reward Request system in the PET communications server.
+- Access to write in the tips-for-duties channel in the communications server.
+
+- Access to the Reward Request system in the communications server.
 
 [/details]
 
