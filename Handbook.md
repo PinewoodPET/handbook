@@ -95,7 +95,7 @@ During events, in-game communication is done using ping groups, a quick way of c
 When attending a PET event, you are expected to join one by tapping on `Find Group` (see image below) and finding the one for PET (typically also called PRO for PET-PBST groups).
 It is possible for the host to mark the group as invite-only, in which case you will have to wait for the host to invite you.
 
-Once you're in a group, you may access the ping wheel by pressing `V` or tapping on the marker icon at the top of your screen.
+Once you're in a group, you may access the ping wheel by pressing `V`, the middle mouse button `(MMB)`, or tapping on the marker icon at the top of your screen.
 
 ![image|208x114](https://raw.githubusercontent.com/PinewoodPET/handbook/main/assets/findgroup.png)
 
