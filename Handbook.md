@@ -805,7 +805,7 @@ The Community Patrol is a **large, monthly event** that aims to bring together a
 
 The scheduling process is simple:
 
-1. A list of up to 5 possible times will be posted a week before the patrol.
+1. A list of up to 5 possible times will be posted a week before the patrol. The time range is different every month to give all timezones a chance.
 
 1a. Specialists can take up to three time slots.
 
