@@ -30,6 +30,8 @@ https://www.roblox.com/groups/2593707/Pinewood-Emergency-Team#!/about
 
 - PET Respondents can **never** start fires or participate in chaos, this is contrary to our mission as PET, and doing so could get you considered rogue.
 
+- PET Respondents usually do not engage in combat, but they can use their own weapons to defend themselves if they ever get attacked. PET may also heal neutrals if they get attacked but may not fight on behalf of them unless the attacker is on KOS (more info in the Warnings and KOS orders section).
+
 - Specialists have the right to remove a ranked member from their position based on bad behavior from both the Communications Server and in-game. Poor behavior includes toxicity, NSFW-like behavior, etc.
 
 - Stealing PB Assets or community-made work in any way, shape, or form is **strictly forbidden**, and will lead to a blacklist if stolen assets are not removed.
